@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Friar’s Daughter</dc:title>
+      <dc:creator>Charles Lincoln Phifer (1860–1931)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2014-12-26</dc:publisher>
+      <dc:date>2014-12-26</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+This curious privately printed book takes place in the Philippines at the beginning of the American colonial period. The names of the characters are inspired by those of real persons at that time.
+Name in story.               Role.                             Real name.
+    Judge Benjamin Daft          American Governor.                Judge William Howard Taft, president of the United States when this book was published.
+    Admiral Rainey               Conqueror of the Philippines.     Admiral George Dewey.
+    Camillo Saguanaldo           Insurgent General and President.  Emilio Aguinaldo.
+    Bishop Lonzello              the Friar.                        At the time of this story, the Bishop of Manila was Bernardino Nozaleda y Villa.
+    Ambrosia Lonzello            the Friar’s Daughter.            Rodriguez Violeta            the Papal Nuncio.                 At the time of this story, Placide Louis Chapelle.
+    Mrs. Rizal                   widow of a Filipino Patriot.      Marie Josephine Leopoldine Bracken, who died in 1902.
+    Maximo Voliva                Leader of a Schism.               Gregorio Aglipay, who was Obispo Maximo of the church named after him.
+
+</dc:rights>
+      <dc:identifier>pg:47782</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
